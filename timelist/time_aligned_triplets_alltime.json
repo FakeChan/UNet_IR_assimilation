@@ -1,0 +1,704 @@
+[
+  {
+    "valid_time": "2024-01-19T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240119t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/19/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011918.npy"
+  },
+  {
+    "valid_time": "2024-01-30T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240130t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/30/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024013012.npy"
+  },
+  {
+    "valid_time": "2024-01-23T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240123t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/23/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012306.npy"
+  },
+  {
+    "valid_time": "2024-01-15T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240115t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/15/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011506.npy"
+  },
+  {
+    "valid_time": "2024-01-13T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240113t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/13/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011300.npy"
+  },
+  {
+    "valid_time": "2024-01-05T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240105t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/05/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010506.npy"
+  },
+  {
+    "valid_time": "2024-01-23T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240123t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/23/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012318.npy"
+  },
+  {
+    "valid_time": "2024-01-24T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240124t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/24/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012418.npy"
+  },
+  {
+    "valid_time": "2024-01-29T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240129t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/29/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012900.npy"
+  },
+  {
+    "valid_time": "2024-01-18T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240118t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/18/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011806.npy"
+  },
+  {
+    "valid_time": "2024-01-10T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240110t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/10/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011006.npy"
+  },
+  {
+    "valid_time": "2024-01-21T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240121t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/21/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012100.npy"
+  },
+  {
+    "valid_time": "2024-01-03T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240103t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/03/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010306.npy"
+  },
+  {
+    "valid_time": "2024-01-26T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240126t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/26/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012600.npy"
+  },
+  {
+    "valid_time": "2024-01-14T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240114t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/14/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011412.npy"
+  },
+  {
+    "valid_time": "2024-01-21T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240121t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/21/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012118.npy"
+  },
+  {
+    "valid_time": "2024-01-29T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240129t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/29/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012906.npy"
+  },
+  {
+    "valid_time": "2024-01-25T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240125t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/25/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012512.npy"
+  },
+  {
+    "valid_time": "2024-01-09T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240109t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/09/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010906.npy"
+  },
+  {
+    "valid_time": "2024-01-12T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240112t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/12/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011200.npy"
+  },
+  {
+    "valid_time": "2024-01-01T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240101t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/01/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010106.npy"
+  },
+  {
+    "valid_time": "2024-01-10T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240110t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/10/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011018.npy"
+  },
+  {
+    "valid_time": "2024-01-06T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240106t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/06/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010612.npy"
+  },
+  {
+    "valid_time": "2024-01-02T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240102t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/02/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010218.npy"
+  },
+  {
+    "valid_time": "2024-01-11T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240111t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/11/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011106.npy"
+  },
+  {
+    "valid_time": "2024-01-22T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240122t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/22/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012218.npy"
+  },
+  {
+    "valid_time": "2024-01-31T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240131t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/31/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024013118.npy"
+  },
+  {
+    "valid_time": "2024-01-03T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240103t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/03/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010300.npy"
+  },
+  {
+    "valid_time": "2024-01-17T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240117t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/17/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011718.npy"
+  },
+  {
+    "valid_time": "2024-01-15T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240115t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/15/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011518.npy"
+  },
+  {
+    "valid_time": "2024-01-14T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240114t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/14/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011406.npy"
+  },
+  {
+    "valid_time": "2024-01-19T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240119t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/19/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011900.npy"
+  },
+  {
+    "valid_time": "2024-01-12T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240112t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/12/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011206.npy"
+  },
+  {
+    "valid_time": "2024-01-15T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240115t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/15/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011512.npy"
+  },
+  {
+    "valid_time": "2024-01-15T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240115t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/15/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011500.npy"
+  },
+  {
+    "valid_time": "2024-01-21T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240121t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/21/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012106.npy"
+  },
+  {
+    "valid_time": "2024-01-06T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240106t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/06/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010618.npy"
+  },
+  {
+    "valid_time": "2024-01-19T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240119t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/19/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011906.npy"
+  },
+  {
+    "valid_time": "2024-01-18T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240118t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/18/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011812.npy"
+  },
+  {
+    "valid_time": "2024-01-24T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240124t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/24/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012400.npy"
+  },
+  {
+    "valid_time": "2024-01-17T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240117t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/17/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011712.npy"
+  },
+  {
+    "valid_time": "2024-01-26T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240126t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/26/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012618.npy"
+  },
+  {
+    "valid_time": "2024-01-30T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240130t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/30/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024013000.npy"
+  },
+  {
+    "valid_time": "2024-01-08T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240108t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/08/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010818.npy"
+  },
+  {
+    "valid_time": "2024-01-02T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240102t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/02/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010212.npy"
+  },
+  {
+    "valid_time": "2024-01-26T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240126t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/26/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012612.npy"
+  },
+  {
+    "valid_time": "2024-01-19T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240119t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/19/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011912.npy"
+  },
+  {
+    "valid_time": "2024-01-18T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240118t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/18/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011800.npy"
+  },
+  {
+    "valid_time": "2024-01-31T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240131t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/31/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024013112.npy"
+  },
+  {
+    "valid_time": "2024-01-13T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240113t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/13/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011306.npy"
+  },
+  {
+    "valid_time": "2024-01-01T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240101t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/01/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010112.npy"
+  },
+  {
+    "valid_time": "2024-01-27T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240127t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/27/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012718.npy"
+  },
+  {
+    "valid_time": "2024-01-20T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240120t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/20/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012006.npy"
+  },
+  {
+    "valid_time": "2024-01-25T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240125t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/25/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012518.npy"
+  },
+  {
+    "valid_time": "2024-01-11T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240111t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/11/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011118.npy"
+  },
+  {
+    "valid_time": "2024-01-08T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240108t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/08/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010812.npy"
+  },
+  {
+    "valid_time": "2024-01-16T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240116t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/16/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011612.npy"
+  },
+  {
+    "valid_time": "2024-01-16T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240116t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/16/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011618.npy"
+  },
+  {
+    "valid_time": "2024-01-12T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240112t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/12/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011212.npy"
+  },
+  {
+    "valid_time": "2024-01-12T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240112t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/12/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011218.npy"
+  },
+  {
+    "valid_time": "2024-01-24T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240124t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/24/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012412.npy"
+  },
+  {
+    "valid_time": "2024-01-05T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240105t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/05/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010518.npy"
+  },
+  {
+    "valid_time": "2024-01-22T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240122t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/22/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012206.npy"
+  },
+  {
+    "valid_time": "2024-01-03T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240103t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/03/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010312.npy"
+  },
+  {
+    "valid_time": "2024-01-20T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240120t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/20/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012018.npy"
+  },
+  {
+    "valid_time": "2024-01-05T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240105t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/05/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010500.npy"
+  },
+  {
+    "valid_time": "2024-01-17T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240117t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/17/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011706.npy"
+  },
+  {
+    "valid_time": "2024-01-02T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240102t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/02/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010206.npy"
+  },
+  {
+    "valid_time": "2024-01-11T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240111t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/11/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011100.npy"
+  },
+  {
+    "valid_time": "2024-01-13T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240113t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/13/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011318.npy"
+  },
+  {
+    "valid_time": "2024-01-14T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240114t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/14/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011400.npy"
+  },
+  {
+    "valid_time": "2024-01-04T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240104t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/04/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010406.npy"
+  },
+  {
+    "valid_time": "2024-01-14T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240114t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/14/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011418.npy"
+  },
+  {
+    "valid_time": "2024-01-27T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240127t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/27/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012706.npy"
+  },
+  {
+    "valid_time": "2024-01-29T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240129t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/29/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012912.npy"
+  },
+  {
+    "valid_time": "2024-01-22T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240122t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/22/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012212.npy"
+  },
+  {
+    "valid_time": "2024-01-27T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240127t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/27/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012700.npy"
+  },
+  {
+    "valid_time": "2024-01-06T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240106t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/06/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010600.npy"
+  },
+  {
+    "valid_time": "2024-01-25T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240125t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/25/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012506.npy"
+  },
+  {
+    "valid_time": "2024-01-13T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240113t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/13/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011312.npy"
+  },
+  {
+    "valid_time": "2024-01-28T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240128t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/28/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012800.npy"
+  },
+  {
+    "valid_time": "2024-01-06T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240106t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/06/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010606.npy"
+  },
+  {
+    "valid_time": "2024-01-01T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240101t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/01/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010100.npy"
+  },
+  {
+    "valid_time": "2024-01-30T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240130t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/30/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024013018.npy"
+  },
+  {
+    "valid_time": "2024-01-28T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240128t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/28/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012806.npy"
+  },
+  {
+    "valid_time": "2024-01-17T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240117t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/17/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011700.npy"
+  },
+  {
+    "valid_time": "2024-01-30T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240130t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/30/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024013006.npy"
+  },
+  {
+    "valid_time": "2024-01-16T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240116t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/16/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011600.npy"
+  },
+  {
+    "valid_time": "2024-01-28T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240128t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/28/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012818.npy"
+  },
+  {
+    "valid_time": "2024-01-25T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240125t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/25/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012500.npy"
+  },
+  {
+    "valid_time": "2024-01-23T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240123t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/23/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012312.npy"
+  },
+  {
+    "valid_time": "2024-01-09T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240109t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/09/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010900.npy"
+  },
+  {
+    "valid_time": "2024-01-20T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240120t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/20/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012012.npy"
+  },
+  {
+    "valid_time": "2024-01-27T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240127t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/27/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012712.npy"
+  },
+  {
+    "valid_time": "2024-01-22T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240122t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/22/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012200.npy"
+  },
+  {
+    "valid_time": "2024-01-18T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240118t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/18/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011818.npy"
+  },
+  {
+    "valid_time": "2024-01-10T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240110t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/10/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011000.npy"
+  },
+  {
+    "valid_time": "2024-01-09T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240109t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/09/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010912.npy"
+  },
+  {
+    "valid_time": "2024-01-28T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240128t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/28/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012812.npy"
+  },
+  {
+    "valid_time": "2024-01-31T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240131t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/31/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024013106.npy"
+  },
+  {
+    "valid_time": "2024-01-02T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240102t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/02/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010200.npy"
+  },
+  {
+    "valid_time": "2024-01-16T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240116t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/16/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011606.npy"
+  },
+  {
+    "valid_time": "2024-01-21T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240121t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/21/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012112.npy"
+  },
+  {
+    "valid_time": "2024-01-03T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240103t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/03/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010318.npy"
+  },
+  {
+    "valid_time": "2024-01-20T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240120t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/20/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012000.npy"
+  },
+  {
+    "valid_time": "2024-01-29T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240129t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/29/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012918.npy"
+  },
+  {
+    "valid_time": "2024-01-24T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240124t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/24/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012406.npy"
+  },
+  {
+    "valid_time": "2024-01-04T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240104t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/04/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010412.npy"
+  },
+  {
+    "valid_time": "2024-01-31T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240131t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/31/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024013100.npy"
+  },
+  {
+    "valid_time": "2024-01-05T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240105t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/05/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010512.npy"
+  },
+  {
+    "valid_time": "2024-01-09T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240109t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/09/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010918.npy"
+  },
+  {
+    "valid_time": "2024-01-10T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240110t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/10/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011012.npy"
+  },
+  {
+    "valid_time": "2024-01-11T12:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240111t12.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/11/1200/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024011112.npy"
+  },
+  {
+    "valid_time": "2024-01-26T06:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240126t06.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/26/0600/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012606.npy"
+  },
+  {
+    "valid_time": "2024-01-01T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240101t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/01/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010118.npy"
+  },
+  {
+    "valid_time": "2024-01-04T18:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240104t18.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/04/1800/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024010418.npy"
+  },
+  {
+    "valid_time": "2024-01-23T00:00:00",
+    "amusa_file": "/share/home/lililei4/lzx/Unet/data/20240123t00.npz",
+    "era5_analysis": "/share/home/lililei4/lzx/Unet/2024/01/23/0000/numpy_output/input_upper.npy",
+    "preassim": "/share/home/lililei4/lzx/dataset/202401/2024012300.npy"
+  }
+]
